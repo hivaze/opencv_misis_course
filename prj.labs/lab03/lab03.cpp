@@ -19,7 +19,7 @@ vector <uchar> brightness() {
 
 
 int main() {
-    string image_path = ("cross_0256x0256.png");
+    string image_path = ("data/cross_0256x0256.png");
     Mat img = imread(image_path, IMREAD_COLOR);
     if(img.empty())
     {

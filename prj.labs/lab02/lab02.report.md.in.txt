@@ -2,7 +2,7 @@
 автор: Братчиков С.С,
 дата: @time_stemp@
 
-<!-- url: https://github.com/hivaze/opencv_misis_course/tree/main/prj.labs/lab02-->
+url: https://github.com/hivaze/opencv_misis_course/tree/main/prj.labs/lab02
 
 ### Задание
 1. В качестве тестового использовать изображение data/cross_0256x0256.png

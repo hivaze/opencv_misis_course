@@ -1,8 +1,8 @@
 ## Работа 2. Исследование каналов и JPEG-сжатия
 автор: Братчиков С.С,
-дата: 2022-02-24T01:29:00
+дата: 2022-04-05T20:17:47
 
-<!-- url: https://github.com/hivaze/opencv_misis_course/tree/main/prj.labs/lab02-->
+url: https://github.com/hivaze/opencv_misis_course/tree/main/prj.labs/lab02
 
 ### Задание
 1. В качестве тестового использовать изображение data/cross_0256x0256.png

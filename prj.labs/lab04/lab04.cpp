@@ -101,8 +101,8 @@ Mat bin(const Mat& img) {
 
 
 int main() {
-    Mat img(imread("../data/data.jpg"));
-    Mat stdImg(imread("../data/std.png"));
+    Mat img(imread("data/data.jpg"));
+    Mat stdImg(imread("data/std.png"));
     Mat G_1, B_1,  F_1, V_1, E_1, B_2, F_2, V_2, E_2;
     cvtColor(img, G_1, COLOR_BGR2GRAY);
     imwrite("lab04.src.jpg", img);
